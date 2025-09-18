@@ -61,6 +61,7 @@ const person3: {
 // -----------------xxxxx----------------------------
 
 // 4. enum
+// NOTE: By default, enums in TypeScript are compiled into numbers in JavaScript.
 
 enum Role {
   ADMIN,
