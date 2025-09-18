@@ -83,3 +83,5 @@ if (person4.role === Role.AUTHOR) {
 } else if (person4.role === Role.READ_USER_ONLY) {
   console.log("read user only");
 }
+
+// --------------xxxx-------------
