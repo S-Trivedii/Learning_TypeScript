@@ -63,10 +63,12 @@ const person3: {
 // 4. enum
 // NOTE: By default, enums in TypeScript are compiled into numbers in JavaScript.
 
+// Use enums when values are used in logic, comparisons, or both string + number mix
+
 enum Role {
-  ADMIN,
-  AUTHOR,
-  READ_USER_ONLY,
+  ADMIN, // 0
+  AUTHOR, // 1
+  READ_USER_ONLY, // 2
 }
 
 const person4 = {
