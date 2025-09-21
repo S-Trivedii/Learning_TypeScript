@@ -2,4 +2,4 @@
    `npm i -g typescript`
 
 2. How to compile .ts file
-   run this command -> `tsc filename`   e.g. `tsc app.ts`   
+   run this command -> `tsc filename` e.g. `tsc app.ts`
