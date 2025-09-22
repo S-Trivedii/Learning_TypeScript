@@ -71,3 +71,28 @@ tsc --watch
 ```
 
 This will compile all `.ts` files defined in `include`.
+
+---
+
+# Topics covered in `classes`
+
+1. Basic class
+2. public and private access modifieres
+3. readonly property
+4. Inheritance
+   - override properties and protected modifiers
+5. getters and setters
+6. static method and properties
+7. abstract classes
+
+---
+
+# Topics covered in `interface`
+
+1. Interface for object
+2. Interface for class
+3. Optional and Readonly
+4. Extending interface
+5. Interface for function
+
+---
