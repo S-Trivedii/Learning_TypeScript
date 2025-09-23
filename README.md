@@ -108,3 +108,12 @@ This will compile all `.ts` files defined in `include`.
 # Learn Type Casting or Type Assertion
 
 ---
+
+# Topics covered in `generics`
+
+1. What use generic
+2. generic function
+3. generic interface
+4. generic class
+5. generic contraints (extends)
+6. default parameters
