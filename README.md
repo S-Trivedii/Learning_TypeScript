@@ -96,3 +96,9 @@ This will compile all `.ts` files defined in `include`.
 5. Interface for function
 
 ---
+
+# Topics covered in `type guards`
+
+1. `typeof` type guard
+2. `in` operator based type guard
+3. type gurad in class
