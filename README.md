@@ -102,3 +102,9 @@ This will compile all `.ts` files defined in `include`.
 1. `typeof` type guard
 2. `in` operator based type guard
 3. type gurad in class
+
+---
+
+# Learn Type Casting or Type Assertion
+
+---
