@@ -117,3 +117,10 @@ This will compile all `.ts` files defined in `include`.
 4. generic class
 5. generic contraints (extends)
 6. default parameters
+
+---
+
+# Todo vs Todo2
+
+Both approachs are correct. But the best approach is the first approach - `todo`. This approach contains **'Single source of truth'**. Second approach - `todo2` does not have any single source of truth.
+For better understanding compare code of both approaches.
