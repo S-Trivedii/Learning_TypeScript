@@ -1,3 +1,12 @@
+# What is TypeScript ?
+
+TypeScript is a superset of JavaScript created by Microsoft.
+
+- It adds static types to JavaScript.
+- It compiles down to plain JavaScript, so it can run anywhere JavaScript runs (browser, Node.js, etc.).
+
+---
+
 1. Install TypeScript in your system if you don't have
    `npm i -g typescript`
 
@@ -124,3 +133,12 @@ This will compile all `.ts` files defined in `include`.
 
 Both approachs are correct. But the best approach is the first approach - `todo`. This approach contains **'Single source of truth'**. Second approach - `todo2` does not have any single source of truth.
 For better understanding compare code of both approaches.
+
+---
+
+# Nodo Todo Project
+
+1. `npm init -y`
+2. `tsc -init`
+3. update `tsconfig.json` file according to your need
+4. setup complete, you are ready to go
